@@ -1,0 +1,29 @@
+.mekatron-random-expressions {
+    background: #e7e7e7;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 3px 6px #00000052;
+    z-index: 99;
+}
+
+.admin-bar .mekatron-random-expressions {
+    top: 32px;
+}
+
+.mekatron-random-expressions p {
+    margin: 0px !important;
+    font-size: 16px;
+}
+
+.mekatron-random-expressions strong {
+    font-size: 12px;
+}
+
+body {
+    padding-top: 40px;
+}
